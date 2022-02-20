@@ -1,1 +1,2 @@
 # w2_activity22
+Practice activity that allows us to get a feel for adding css to a website. Made sure to play around with the colors to see what was affected. Although I used the template to create the web page, it was helpful breaking down each line and understand what is happening!
